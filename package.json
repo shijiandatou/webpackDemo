@@ -15,5 +15,29 @@
   "bugs": {
     "url": "https://github.com/shijiandatou/webpackDemo/issues"
   },
-  "homepage": "https://github.com/shijiandatou/webpackDemo#readme"
+  "homepage": "https://github.com/shijiandatou/webpackDemo#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.11",
+    "file-loader": "^1.1.11",
+    "img-loader": "^3.0.0",
+    "less": "^3.0.2",
+    "less-loader": "^4.1.0",
+    "postcss": "^6.0.22",
+    "postcss-loader": "^2.1.5",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-merge": "^4.1.2"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0"
+  }
 }
